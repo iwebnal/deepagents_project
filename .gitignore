@@ -2,6 +2,7 @@
 .env
 .env.local
 *.env
+requirements.txt
 
 # Виртуальные окружения Python
 venv/
